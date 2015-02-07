@@ -1,0 +1,5 @@
+Q1: What happens when you initialize a repository? Why do you need to do it?
+A1: git begin to track the folder
+
+Q2: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A2: it stored in working directory but not in repository. So we could decide which file is needed to commit to repository
