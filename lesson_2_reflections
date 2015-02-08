@@ -3,3 +3,6 @@ A1: git begin to track the folder
 
 Q2: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A2: it stored in working directory but not in repository. So we could decide which file is needed to commit to repository
+
+Q3: How can you use the staging area to make sure you have one commit per logical change?
+A3: I could add mutiple file to staging area so that when changed in multiple files make a meaning for change, I could commit them together at one time. 
