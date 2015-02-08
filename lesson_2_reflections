@@ -6,3 +6,6 @@ A2: it stored in working directory but not in repository. So we could decide whi
 
 Q3: How can you use the staging area to make sure you have one commit per logical change?
 A3: I could add mutiple file to staging area so that when changed in multiple files make a meaning for change, I could commit them together at one time. 
+
+Q4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A4: When we want to add some experimental method and don't want to infect main branch. 
