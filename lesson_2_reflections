@@ -15,3 +15,6 @@ A5: We could see branch status on the graph.
 
 Q6: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A6: After merging two branches, the features of two branches come together. The diagram could show the fork and merge of different branches as a easy to understand way. 
+
+Q7: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?f
+A7: when no confilcts in the same file, auto merge save times. but when there are confilcts, the auto merge don't know how code work so need a manual merge. 
