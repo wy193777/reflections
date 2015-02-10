@@ -12,3 +12,6 @@ A4: When we want to add some experimental method and don't want to infect main b
 
 Q5: How do the diagrams help you visualize the branch structure?
 A5: We could see branch status on the graph. 
+
+Q6: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A6: After merging two branches, the features of two branches come together. The diagram could show the fork and merge of different branches as a easy to understand way. 
