@@ -3,3 +3,6 @@ A1: When I want my project stored in a safer place or want others coorperate wit
 
 Q2: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A2: Because when I'm working on a new feature or something, pull from remote maybe have some conflict with my current work.
+
+Q3: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A3: forks is a cloned respository from someone else. And any change of origin or forked aren't effect each other after a fork. Branch is a version that aren't as same as the origin. 
